@@ -1,0 +1,23 @@
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.exe.config
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.vbprojAssemblyReference.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut_Project.frmMain.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut_Project.Resources.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.GenerateResource.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.pdb
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.exe.config
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.exe
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.pdb
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\bin\Debug\Donut Project.xml
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.vbprojAssemblyReference.cache
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut_Project.frmMain.resources
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut_Project.Resources.resources
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.GenerateResource.cache
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.exe
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.xml
+D:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 6\idek\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.CoreCompileInputs.cache
